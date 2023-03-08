@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+    body{
+        height: 100vh;
+        display: grid;
+        grid-template-rows: 100px 1fr 100px;
+        padding: 70px 70px 24px 70px;
+        font-family: 'Righteous', cursive;
+        color: black;
+        background-color: gray;
+        
+    }
+
+.logo__icon{
+   margin-top: 10px;
+    top: 15%;
+    left: 1%;
+    width: 40px;
+
+
+
+}
+
+.titlle_transparent{
+
+    margin-top: 10px;
+    margin-left: 10px;
+
+
+}
+
+.logo__text{
+
+   margin-top: 1px;
+   margin-bottom: 10px;
+
+
+}
+   
+
+    .logo_jordan{
+        position: absolute;
+        font-size: 27vw;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: -1;
+        width: 90px;
+
+
+    }
+
+  
+    .instagram{
+        padding-bottom: 15px;
+    }
+
+    .facebook{
+    padding-bottom: 15px;
+    }
+
+    .youtube{
+        padding-bottom: 15px;
+    }
+
+    .twitter{
+
+
+
+
+    }
+
+    .redes{
+        position: absolute; right: 30px;
+        display: flex;
+        flex-direction: column;
+
+    }
+
+
+
+    .info__text{
+        position: absolute; right: 30px; top: 60px;
+    }
+   
