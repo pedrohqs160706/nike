@@ -10,7 +10,8 @@
         font-family: 'Righteous', cursive;
         color: black;
         background-color: gray;
-        
+        background-image: url(jordan2.jfif);
+        background-position-x: center 
     }
 
 .logo__icon{
@@ -18,40 +19,11 @@
     top: 15%;
     left: 1%;
     width: 40px;
-
-
-
-}
-
-.titlle_transparent{
-
-    margin-top: 10px;
-    margin-left: 10px;
-
-
-}
-
-.logo__text{
-
-   margin-top: 1px;
-   margin-bottom: 10px;
+    color: white;
 
 
 }
    
-
-    .logo_jordan{
-        position: absolute;
-        font-size: 27vw;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        z-index: -1;
-        width: 90px;
-
-
-    }
-
   
     .instagram{
         padding-bottom: 15px;
@@ -82,6 +54,61 @@
 
 
     .info__text{
-        position: absolute; right: 30px; top: 60px;
+        position: absolute; right: 30px; top: 20px;
+        color: white;
     }
    
+    .logo{
+
+    color: white;
+
+
+    }
+    
+
+    .nikee{
+       margin-left: -50px;
+       margin-top: -420px;
+       width: 80px;
+
+    }
+
+    .videojordan{
+        margin-left: -60px;
+        margin-top: 30px;
+        width: 10px;
+        display: flex;
+        height: 100px;
+    }
+    .videojordan2{
+        margin-left: -60px;
+        margin-top: 30px;
+        width: 10px;
+        display: flex;
+        height: 100px; 
+
+    }
+    .videojordan3{
+
+        margin-left: -60px;
+        margin-top: 30px;
+        width: 10px;
+        display: flex;
+        height: 100px; 
+
+
+    }
+
+    .jordan23{
+        margin-left: 500px;
+        margin-top: -570px;
+        width: 10px;
+        display: flex;
+        height: 100px;
+    }
+
+    footer{
+        text-align: center;
+        color: white;
+
+    }
